@@ -1,2 +1,1 @@
-# iMaterialist-Fashion-2019-at-FGVC6
-***Testing***
+*Fine-grained segmentation task for fashion and apparel* 
