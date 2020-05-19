@@ -14,7 +14,11 @@
 * ClassId - class id for this mask
 
 **Evaluation**: Mean average precision at different *Intersection over Union (IoU)* thresholds. 
-IoU = (Area of overlap) / (Area of union)
+
+**Intersection over Union (IoU)**
+
+![](https://storage.googleapis.com/kaggle-media/competitions/rsna/IoU.jpg)
+
 
 ## 1st place solution
 Base on this paper: https://arxiv.org/abs/1901.07518
