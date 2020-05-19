@@ -11,7 +11,7 @@
 * EncodedPixels - masks in run-length encoded format
 * ClassId - class id for this mask
 
-**Evaluation**: Mean average precision at different *Intersection over Union (IoU)* thresholds
+**Evaluation**: Mean average precision at different *Intersection over Union (IoU)* thresholds. 
 IoU = (Area of overlap) / (Area of union)
 
 ## 1st place solution
