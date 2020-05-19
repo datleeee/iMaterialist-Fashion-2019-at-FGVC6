@@ -1,5 +1,6 @@
 # Fine-grained segmentation task for fashion and apparel
 **Problem:** Recognize apparel products and associated attributes from pictures.
+
 **Data**:
 * train - Images with or without fine-grained segmentations 
 * test - Images with fine-grained segmentations
