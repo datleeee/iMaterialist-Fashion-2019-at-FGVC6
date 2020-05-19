@@ -103,3 +103,9 @@ Improved metric: **0.21913** --> **0.30011**
 * [mmdetection](https://github.com/open-mmlab/mmdetection) for Mask-RCNN: Hybrid Task Cascade with X-101-64x4d-FPN backbone 
 * [iterative stratification](https://github.com/trent-b/iterative-stratification): cross validation for multilabel data
 * [albumentations](https://github.com/albumentations-team/albumentations): light data augmentation
+
+## What I learned from this:
+Basic intuition of:
+* Mask-RCNN
+* IoU
+* TTA
