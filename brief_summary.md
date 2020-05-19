@@ -11,7 +11,7 @@
 **Columns**:
 * ImageId - unique Id of an image
 * EncodedPixels - masks in run-length encoded format
-* ClassId - class id for this mask
+* ClassId - class Id for this mask
 
 **Evaluation**: Mean average precision at different *Intersection over Union (IoU)* thresholds. 
 
