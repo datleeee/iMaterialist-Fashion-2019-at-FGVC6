@@ -26,8 +26,7 @@ Base on this paper: https://arxiv.org/abs/1901.07518
 
 **Validation:**
 * Split 450 samples from training set
-* Scikit-learn cross validators for iterative stratification of multilabel data
-* https://github.com/trent-b/iterative-stratification
+* Scikit-learn cross validators for ![*iterative stratification*](https://github.com/trent-b/iterative-stratification of multilabel data
 
 **Preprocessing:**
  * Light augmentations:  [albumentations](https://github.com/albumentations-team/albumentations) library
