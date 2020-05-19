@@ -92,8 +92,11 @@ Improved metric: **0.21913** --> **0.30011**
 ## 18th place solution
 
 **Model**: r101 Mask-RCNN 1024x1024
+
 **Ansebmle prediction** from multiple snapshots of r101 Mask-RCNN
+
 [Classfication Pipeline](https://github.com/musket-ml/classification_training_pipeline): Train several **multiclass** cassfiers
+
 [Segmentation Pipeline](https://github.com/musket-ml/segmentation_training_pipeline): Train lots of **segmentation** networks at least one per class --> refine masks from mask-rcnn (**main source for improvement**)
 
 ## Approaches work best:
