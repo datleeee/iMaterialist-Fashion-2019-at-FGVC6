@@ -18,6 +18,7 @@ IoU = (Area of overlap) / (Area of union)
 
 ## 1st place solution
 Base on this paper: https://arxiv.org/abs/1901.07518
+
 **Model:**
 * Mmdetection repo: Hybrid Task Cascade with ResNeXt-101-64x4d-FPN backbone
 * Has a metric Mask mAP = 43.9 on COCO dataset
