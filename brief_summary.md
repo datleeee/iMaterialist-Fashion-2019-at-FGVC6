@@ -1,5 +1,6 @@
 # Fine-grained segmentation task for fashion and apparel
 **Problem:** Recognize apparel products and associated attributes from pictures.
+![](https://s3.amazonaws.com/ifashionist/Kaggle/Kaggle3.jpg)
 
 **Data**:
 * train - Images with or without fine-grained segmentations 
