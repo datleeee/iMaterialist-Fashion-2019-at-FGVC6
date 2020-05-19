@@ -4,8 +4,8 @@
 ![](https://s3.amazonaws.com/ifashionist/Kaggle/Kaggle3.jpg)
 
 **Data**:
-* train - Images with or without fine-grained segmentations 
-* test - Images with fine-grained segmentations
+* 45.2k train - Images with or without fine-grained segmentations 
+* 3193 test - Images with fine-grained segmentations
 * We must segment and classify the images in test set
 
 **Columns**:
