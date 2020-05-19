@@ -97,5 +97,6 @@ Improved metric: **0.21913** --> **0.30011**
 [Segmentation Pipeline](https://github.com/musket-ml/segmentation_training_pipeline): Train lots of **segmentation** networks at least one per class --> refine masks from mask-rcnn (**main source for improvement**)
 
 ## Approaches work best:
-* Mask-RCNN
-* Hybrid Task Cascade with X-101-64x4d-FPN backbone (mmdetection)
+* [mmdetection](https://github.com/open-mmlab/mmdetection) for Mask-RCNN: Hybrid Task Cascade with X-101-64x4d-FPN backbone 
+* [iterative stratification](https://github.com/trent-b/iterative-stratification): cross validation for multilabel data
+* [albumentations](https://github.com/albumentations-team/albumentations): light data augmentation
