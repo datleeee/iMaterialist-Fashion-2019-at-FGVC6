@@ -23,6 +23,8 @@
 ## 1st place solution
 Base on this paper: https://arxiv.org/abs/1901.07518
 
+Code: https://github.com/amirassov/kaggle-imaterialist
+
 **Model:**
 * [Mmdetection](https://github.com/open-mmlab/mmdetection): Hybrid Task Cascade with ResNeXt-101-64x4d-FPN backbone
 * Has a metric Mask mAP = 43.9 on COCO dataset
